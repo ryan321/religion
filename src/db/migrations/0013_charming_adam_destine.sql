@@ -1,0 +1,1 @@
+ALTER TABLE "great_minds" ADD COLUMN "starters" jsonb;

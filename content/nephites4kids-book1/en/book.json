@@ -1,0 +1,27 @@
+{
+  "series_name": "History of the Nephites for Kids",
+  "series_order": 1,
+  "audience": "Ages 7-12",
+  "subjects": ["Religion", "Scripture", "History"],
+  "introduction": "The Book of Mormon tells the story of a civilization that lasted over a thousand years -- from Lehi's departure from Jerusalem around 600 BC to the final battles over 400 years after Christ. It's an incredible story, but it can be hard to follow. Who are all these people? Where are they going? How do the different groups connect?\n\nThis book takes the first 500 years of that story and tells it as a continuous narrative -- from Lehi leaving Jerusalem to the end of the Nephite monarchy and the beginning of the reign of the judges. You'll follow Lehi's family through the wilderness and across the ocean. You'll see the Nephite-Lamanite split. You'll meet King Benjamin, Abinadi, Alma, and Alma the Younger. You'll understand how Zeniff's colony, Limhi's people, and Alma's followers all fit together.\n\nThis is not a replacement for reading the Book of Mormon -- it's a companion. Scripture references are included throughout so you can look up the original accounts. The more you read this book alongside the actual scriptures, the more both will make sense.\n\nEach lesson takes about 15-20 minutes. Read the lesson, talk it over with the AI tutor, then answer a few questions in your own words.",
+  "description": "A narrative history of the Nephite civilization from Lehi's departure from Jerusalem through the transition from kings to judges -- roughly the first 500 years covered in 1 Nephi through Mosiah. Tells the story as a continuous, chronological narrative with scripture references throughout.",
+  "image_url": "/api/content/nephites4kids-book1/assets/cover.jpg",
+  "what_youll_learn": [
+    "Why Lehi left Jerusalem and what happened on the journey",
+    "How Nephi obtained the brass plates and what they meant",
+    "The vision of the tree of life and what the symbols represent",
+    "How the family crossed the ocean and arrived in the promised land",
+    "Why the Nephites and Lamanites split and what each civilization was like",
+    "The teachings of Nephi, Jacob, and Enos",
+    "King Benjamin's great address and the covenant to take Christ's name",
+    "The story of Zeniff, King Noah, and Abinadi",
+    "Alma's conversion, the Waters of Mormon, and the baptismal covenant",
+    "Alma the Younger's dramatic conversion and the beginning of the judges"
+  ],
+  "expectations": "15 chapters, designed for one chapter per week (4 short lessons per week). Each lesson takes about 15-20 minutes -- read the lesson, talk it over with the AI tutor, then answer a few short questions in your own words. Your work is graded by the tutor and you can take a chapter as many times as you need.",
+  "prerequisites": "None. No prior Book of Mormon knowledge assumed. This is Book 1 of a 3-book series covering the full Nephite history.",
+  "price_cents": 1900,
+  "free_lessons_count": 6,
+  "published": false,
+  "tutor_instructions": "This book is a narrative history of the Nephites from Lehi's departure through the end of Mosiah, written for Latter-day Saint kids ages 7-12. The reader may have heard many of these stories in Primary but likely doesn't have a clear sense of the timeline or how the different groups connect.\n\nWhen explaining and when grading:\n- Use plain, simple words. Prefer short sentences.\n- The Book of Mormon is a true historical record. The events happened. Be matter-of-fact.\n- Help kids understand the timeline and geography -- who is where, when, and why.\n- When multiple storylines are happening at once (Zeniff's colony, Alma's group, Zarahemla), help kids keep track of the parallel narratives.\n- Connect the stories to principles: Nephi's faith, the Liahona working by faithfulness, the baptismal covenant at the Waters of Mormon, King Benjamin's teaching about service.\n- Encourage kids to look up the scripture references and read the original accounts.\n- When grading, accept any answer that captures the lesson's core idea in the student's own words.\n- Be encouraging. The goal is to help kids see the Book of Mormon as a real, connected story -- not a collection of isolated Sunday School lessons."
+}

@@ -1,0 +1,1 @@
+ALTER TABLE "book_starts" ADD COLUMN "last_opened_at" timestamp;

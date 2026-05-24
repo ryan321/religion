@@ -1,0 +1,26 @@
+{
+  "series_name": "The Life of Joseph Smith for Kids",
+  "series_order": 1,
+  "audience": "Ages 7-12",
+  "subjects": ["Religion", "Biography", "Church History"],
+  "introduction": "You know Joseph Smith as the prophet who restored the gospel. But do you know him as a person?\n\nJoseph was a real human being -- a farm boy from Vermont who loved to wrestle, laugh, and play with children. He had a mother who prayed over him, a father who held him during a terrifying surgery, a brother who died too young, and a wife who sacrificed everything to stand beside him. He was cheerful, courageous, imperfect, and deeply feeling. He could barely write a decent letter, but by the power of God he translated the Book of Mormon in 65 days.\n\nThis book is a biography -- the story of Joseph's life from the prophecies about his coming all the way to his death at Carthage. You'll learn about his family, his childhood, his leg surgery, his marriage to Emma, and his daily life as a prophet who still chopped wood and dealt with money problems. You'll walk with him through triumphs and heartbreaks -- the First Vision and the lost 116 pages, the Kirtland Temple and the Kirtland crisis, Liberty Jail and Nauvoo the Beautiful.\n\nThe more you know Joseph as a person, the more you'll understand what it cost him to do what God asked him to do. And the more you'll appreciate what he gave so that you could have the gospel today.\n\nEach lesson takes about 15-20 minutes. Read the lesson, talk it over with the AI tutor, then answer a few questions in your own words.",
+  "description": "A biography of Joseph Smith for Latter-day Saint kids -- from the prophecies about his coming through his martyrdom at Carthage. Focuses on Joseph as a person: his family, personality, struggles, growth, and daily life as a prophet. Honest about his humanity, reverent about his mission.",
+  "image_url": "/api/content/josephsmith4kids-book1/assets/cover.jpg",
+  "what_youll_learn": [
+    "How Joseph Smith was prophesied about thousands of years before his birth",
+    "Who the Smith family was and what their life was like",
+    "Joseph's childhood, the leg surgery, his personality, and his limited education",
+    "What happened in the Sacred Grove and why nobody believed him",
+    "His marriage to Emma and her role as partner and witness",
+    "How the Book of Mormon was translated and published",
+    "Joseph's leadership style, daily life, and how he received revelations",
+    "The triumphs and crises of Kirtland, Missouri, and Nauvoo",
+    "The major doctrines Joseph taught and the martyrdom at Carthage"
+  ],
+  "expectations": "15 chapters, designed for one chapter per week (4 short lessons per week). Each lesson takes about 15-20 minutes -- read the lesson, talk it over with the AI tutor, then answer a few short questions in your own words. Your work is graded by the tutor and you can take a chapter as many times as you need.",
+  "prerequisites": "None. Can be read before or after The Restoration for Kids. No prior Church history knowledge assumed.",
+  "price_cents": 1900,
+  "free_lessons_count": 6,
+  "published": false,
+  "tutor_instructions": "This book is a biography of Joseph Smith for Latter-day Saint kids ages 7-12. It focuses on Joseph as a person -- his family, personality, struggles, and daily life -- not just the events of the Restoration.\n\nWhen explaining and when grading:\n- Use plain, simple words. Prefer short sentences.\n- This is a biography, not a doctrinal textbook. Help kids see Joseph as a real person.\n- LDS perspective is the default. Joseph was a prophet. Be matter-of-fact, not apologetic.\n- Be honest about Joseph's humanity (he made mistakes, struggled, grew) without being critical.\n- Be reverent when discussing sacred events (First Vision, temple, martyrdom) but not stiff.\n- Help kids connect Joseph's experiences to their own: 'Have you ever told the truth and had people not believe you? That's what happened to Joseph after the First Vision.'\n- When grading, accept any answer that captures the lesson's core idea in the student's own words.\n- Be encouraging. The goal is to help kids know the prophet, not just know about him."
+}

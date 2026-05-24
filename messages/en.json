@@ -1,33 +1,33 @@
 {
   "site": {
-    "name": "Best Subjects",
-    "tagline": "The subjects that matter most, taught well."
+    "name": "Gospel 4 Kids",
+    "tagline": "Helping young Latter-day Saints understand the gospel."
   },
   "landing": {
-    "hero": "Your child deserves to learn the best subjects.",
-    "heroSub": "Economics, civics, business, logic, and rhetoric shape every major decision in life. Money, career, voting, relationships, arguments. Most people figure them out the hard way, or never. Your child doesn't have to.",
-    "feature1": "Age-appropriate live workbooks in plain language",
+    "hero": "Help your child know the gospel deeply.",
+    "heroSub": "Jesus Christ, the Book of Mormon, the Restoration, the Plan of Salvation, priesthood, and covenants. These are the things that matter most. Give your child the chance to really understand them, not just hear about them on Sunday.",
+    "feature1": "Age-appropriate lessons rooted in scripture",
     "feature2": "Built-in AI tutor for every lesson",
     "feature3": "15–20 minutes per lesson",
     "startFree": "Start a free lesson",
-    "browseSubjects": "Browse subjects",
+    "browseSubjects": "Browse books",
     "planTitle": "How it works",
-    "step1Title": "Pick a subject",
-    "step1": "Start with free lessons in economics, civics, business, logic, or rhetoric. No credit card required.",
+    "step1Title": "Pick a book",
+    "step1": "Start with free lessons on the life of Jesus, the Nephites, Joseph Smith, the Restoration, and more. No credit card required.",
     "step2Title": "Read a short lesson",
-    "step2": "Each lesson takes about 15–20 minutes and uses plain language with examples from a kid's world.",
+    "step2": "Each lesson takes about 15–20 minutes, written in plain language with scripture references your child can look up and read together with you.",
     "step3Title": "Ask the AI tutor anything",
-    "step3": "Your child can ask questions anytime. The built-in AI tutor explains concepts in an age-appropriate way without giving answers away.",
+    "step3": "Your child can ask questions anytime. The tutor explains gospel concepts in an age-appropriate way, always grounded in the scriptures and the teachings of the restored Church.",
     "step4Title": "Answer in your own words",
-    "step4": "Students write real answers and get helpful feedback. Not just right or wrong, but guidance that helps them understand.",
-    "tutorTitle": "An AI tutor that helps your child understand",
-    "tutorBody": "Every live workbook includes a built-in AI tutor that knows the subject and the specific lesson. It explains concepts, answers questions, gives examples, and responds to your child's written answers. The tutor is designed to guide, not shortcut. It helps your child reason through the material without simply giving the answer away.",
+    "step4": "Students write real answers and get helpful feedback. Not just right or wrong, but guidance that helps them think through what they're learning.",
+    "tutorTitle": "An AI tutor that teaches from the scriptures",
+    "tutorBody": "Every workbook includes a built-in AI tutor that knows the scriptures and the specific lesson your child is studying. It explains gospel concepts, answers questions, gives examples, and responds to your child's written answers. The tutor is designed to guide, not shortcut. It helps your child reason through the material and build a real understanding of the gospel.",
     "pricingTitle": "Free to start. No subscriptions.",
-    "pricingBody": "Each live workbook has free lessons so you can try it before buying anything. No credit card required. When you want the full workbook, buy it once and keep it. No monthly subscription. No ongoing fees.",
+    "pricingBody": "Each workbook has free lessons so you can try it before buying anything. No credit card required. When you want the full workbook, buy it once and keep it. No monthly subscription. No ongoing fees.",
     "languageTitle": "Learn in the language that works best for your child",
-    "languageBody": "Lessons, quizzes, AI tutor help, and the entire website are available in 60+ languages, so your child can learn in the language that feels most natural.",
+    "languageBody": "Lessons, quizzes, AI tutor help, and the entire website are available in 60+ languages, so your child can learn the gospel in the language that feels most natural.",
     "ctaTitle": "Start with a free lesson",
-    "ctaSub": "Create a free account to get started. Browse the catalog anytime, no sign-up needed."
+    "ctaSub": "Browse the books anytime, no sign-up needed. Create a free account when you're ready."
   },
   "nav": {
     "browseBooks": "Browse live workbooks",
@@ -42,7 +42,7 @@
   },
   "auth": {
     "loginTitle": "Log In",
-    "loginSubtitle": "Sign in to Best Subjects",
+    "loginSubtitle": "Sign in to Gospel 4 Kids",
     "signupTitle": "Create an Account",
     "signupSubtitle": "Sign up to start learning",
     "name": "Name",
@@ -217,7 +217,7 @@
   },
   "help": {
     "title": "Help",
-    "subtitle": "Everything you need to know about using Best Subjects.",
+    "subtitle": "Everything you need to know about using Gospel 4 Kids.",
     "browsingTitle": "Finding workbooks",
     "browsingStep1": "Tap \"Browse live workbooks\" in the top navigation to see the full catalog.",
     "browsingStep2": "Use the search bar to find workbooks by title, author, or topic. Use the subject dropdown to filter by subject area.",

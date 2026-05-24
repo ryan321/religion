@@ -16,11 +16,11 @@ export default async function LandingPage() {
       <TopNav />
 
       {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-b from-blue-50/60 to-white">
+      <section className="relative overflow-hidden bg-gradient-to-b from-indigo-50/60 to-white">
         <div className="mx-auto max-w-3xl px-6 pt-14 pb-16 text-center">
           <Image
             src="/logo-medium.png"
-            alt="Best Subjects"
+            alt="Gospel 4 Kids"
             width={160}
             height={160}
             className="mx-auto mb-8"
@@ -34,19 +34,19 @@ export default async function LandingPage() {
           </p>
           <div className="mt-10 mx-auto max-w-2xl grid gap-4 sm:grid-cols-3">
             <div className="flex flex-col items-center gap-2 rounded-xl bg-white border border-gray-200 px-4 py-5 shadow-sm">
-              <svg className="w-7 h-7 text-blue-600" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
+              <svg className="w-7 h-7 text-indigo-600" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6 2.292m0-14.25v14.25" />
               </svg>
               <span className="text-sm font-medium text-gray-900 text-center">{t("feature1")}</span>
             </div>
             <div className="flex flex-col items-center gap-2 rounded-xl bg-white border border-gray-200 px-4 py-5 shadow-sm">
-              <svg className="w-7 h-7 text-blue-600" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
+              <svg className="w-7 h-7 text-indigo-600" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18" />
               </svg>
               <span className="text-sm font-medium text-gray-900 text-center">{t("feature2")}</span>
             </div>
             <div className="flex flex-col items-center gap-2 rounded-xl bg-white border border-gray-200 px-4 py-5 shadow-sm">
-              <svg className="w-7 h-7 text-blue-600" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
+              <svg className="w-7 h-7 text-indigo-600" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
               </svg>
               <span className="text-sm font-medium text-gray-900 text-center">{t("feature3")}</span>
@@ -55,7 +55,7 @@ export default async function LandingPage() {
           <div className="mt-8 flex items-center justify-center gap-4 flex-wrap">
             <Link
               href="/books"
-              className="rounded-lg bg-blue-600 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-blue-700 transition-colors"
+              className="rounded-lg bg-indigo-600 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-indigo-700 transition-colors"
             >
               {t("startFree")}
             </Link>
@@ -81,7 +81,7 @@ export default async function LandingPage() {
                 key={key}
                 className="rounded-xl border border-gray-100 bg-gray-50/50 p-5 flex gap-4"
               >
-                <div className="flex-none flex items-center justify-center w-9 h-9 rounded-full bg-blue-600 text-white text-sm font-bold">
+                <div className="flex-none flex items-center justify-center w-9 h-9 rounded-full bg-indigo-600 text-white text-sm font-bold">
                   {i + 1}
                 </div>
                 <div>
@@ -99,10 +99,10 @@ export default async function LandingPage() {
       </section>
 
       {/* AI tutor */}
-      <section className="bg-blue-50/50 py-14">
+      <section className="bg-indigo-50/50 py-14">
         <div className="mx-auto max-w-2xl px-6">
           <div className="flex items-start gap-4">
-            <div className="flex-none flex items-center justify-center w-10 h-10 rounded-lg bg-blue-600 text-white">
+            <div className="flex-none flex items-center justify-center w-10 h-10 rounded-lg bg-indigo-600 text-white">
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18" />
               </svg>
@@ -142,12 +142,12 @@ export default async function LandingPage() {
       </section>
 
       {/* Bottom CTA */}
-      <section className="bg-blue-600">
+      <section className="bg-indigo-600">
         <div className="mx-auto max-w-3xl px-6 py-20 text-center">
           <h2 className="text-4xl sm:text-5xl font-bold tracking-tight text-white">
             {t("ctaTitle")}
           </h2>
-          <p className="mt-4 text-lg text-blue-100">
+          <p className="mt-4 text-lg text-indigo-100">
             {t("ctaSub")}
           </p>
           <div className="mt-10 flex items-center justify-center gap-5 flex-wrap">
@@ -156,7 +156,7 @@ export default async function LandingPage() {
             </svg>
             <Link
               href="/books"
-              className="inline-block rounded-xl bg-white px-10 py-4 text-base font-bold text-blue-600 shadow-lg hover:bg-blue-50 hover:shadow-xl transition-all"
+              className="inline-block rounded-xl bg-white px-10 py-4 text-base font-bold text-indigo-600 shadow-lg hover:bg-indigo-50 hover:shadow-xl transition-all"
             >
               {t("startFree")}
             </Link>

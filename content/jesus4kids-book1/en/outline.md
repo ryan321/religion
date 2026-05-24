@@ -1,4 +1,4 @@
-# The Ministry of Jesus Christ for Kids -- Book 1
+# The Ministry of Jesus Christ for Kids
 
 The Life, Teachings, and Atonement of the Savior
 15 weeks · 15 chapters

@@ -1,4 +1,4 @@
-# History of Christianity for Kids -- Book 1
+# History of Christianity for Kids
 
 From the Apostles to the Restoration
 15 weeks · 15 chapters

@@ -1,4 +1,4 @@
-# Laws and Covenants for Kids -- Book 1
+# Laws and Covenants for Kids
 
 What God Promises and What He Asks
 15 weeks · 15 chapters

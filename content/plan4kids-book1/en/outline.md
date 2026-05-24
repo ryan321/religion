@@ -1,4 +1,4 @@
-# The Plan of Salvation for Kids -- Book 1
+# The Plan of Salvation for Kids
 
 Where You Came From, Why You're Here, and Where You're Going
 15 weeks · 15 chapters

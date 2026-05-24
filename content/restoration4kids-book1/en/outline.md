@@ -1,4 +1,4 @@
-# The Restoration for Kids -- Book 1
+# The Restoration for Kids
 
 How the Gospel Was Brought Back
 15 weeks · 15 chapters

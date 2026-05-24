@@ -1,4 +1,4 @@
-# The Priesthood for Kids -- Book 1
+# The Priesthood for Kids
 
 The Power and Authority of God
 15 weeks · 15 chapters

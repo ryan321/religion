@@ -1,4 +1,4 @@
-# The Life of Joseph Smith for Kids -- Book 1
+# The Life of Joseph Smith for Kids
 
 The Prophet of the Restoration
 15 weeks · 15 chapters

@@ -1,4 +1,4 @@
-# History of Israel for Kids -- Book 1
+# History of Israel for Kids
 
 The Land, the People, and the Covenant
 15 weeks · 15 chapters

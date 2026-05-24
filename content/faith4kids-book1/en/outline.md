@@ -1,4 +1,4 @@
-# Lectures on Faith for Kids -- Book 1
+# Lectures on Faith for Kids
 
 What Faith Really Is and How It Works
 15 weeks · 15 chapters

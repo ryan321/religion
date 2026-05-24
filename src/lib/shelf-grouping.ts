@@ -19,15 +19,11 @@ interface GroupDef {
 }
 
 const GROUPS: GroupDef[] = [
-  { title: "Economics", members: ["Economics for Kids"] },
-  { title: "Business", members: ["Business for Kids", "Accounting for Kids"] },
-  { title: "Investing", members: ["Investing for Kids"] },
-  { title: "Probability & Statistics", members: ["Probability and Statistics for Kids"] },
-  { title: "Risk", members: ["Risk"] },
-  { title: "Civics & Law", members: ["American History", "Government", "Law"] },
-  { title: "Conversation & Oration", members: ["Communication", "Oration", "Negotiation"] },
-  { title: "Trivium", members: ["Grammar for Kids", "Logic for Kids", "Rhetoric for Kids"], nested: true },
-  { title: "Science", members: ["Science"] },
+  { title: "Jesus Christ", members: ["Jesus Christ", "The Ministry of Jesus Christ for Kids"] },
+  { title: "Gospel Principles", members: ["Gospel Principles", "The Plan of Salvation for Kids", "The Priesthood for Kids", "Laws and Covenants for Kids", "Lectures on Faith for Kids"] },
+  { title: "The Restoration", members: ["The Restoration", "The Restoration for Kids", "The Life of Joseph Smith for Kids"] },
+  { title: "History of Israel and Christianity", members: ["Bible History", "History of Israel for Kids", "History of Christianity for Kids"] },
+  { title: "History of the Nephites", members: ["Book of Mormon", "History of the Nephites for Kids"] },
 ];
 
 export interface ShelfGroup<T = unknown> {

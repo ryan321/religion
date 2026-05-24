@@ -1,5 +1,4 @@
 FROM node:22-slim AS base
-RUN npm install -g npm@latest
 
 # Install dependencies only when needed
 FROM base AS deps

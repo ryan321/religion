@@ -200,49 +200,139 @@ Pearl of Great Price:
 
 ### Tier 4 — Connections
 
-Cross-referencing across all four standard works. How does the Abrahamic covenant thread from Genesis through the Book of Mormon through D&C? How do temple themes appear everywhere? How does Alma 42 illuminate Romans? This is where the LDS perspective really shines -- four witnesses that illuminate each other. Typology lives here too (events that foreshadow Christ). Assumes Meaning.
+The LDS scriptural canon is unique in the world. No other Christian tradition reads four separate volumes of scripture written by different peoples on different continents across different millennia -- and believes they're all from the same God, telling one unified story. The connections between them aren't just interesting footnotes. They're the whole point. If you only read each standard work in isolation, you're reading them like a Protestant reads the Bible or a scholar studies an ancient text. The LDS perspective is that they illuminate each other -- that God *intended* them to be read together.
+
+This is where the learner starts to see things that are genuinely invisible at lower tiers. You can understand Alma 42 on its own (Meaning), and you can understand Romans on its own (Meaning), but when you put them side by side, you see something neither one shows you alone. That's not speculation -- it's what happens when you have two witnesses teaching the same doctrine in different ways to different audiences.
+
+**What the learner gets out of this tier:**
+
+- The scriptures stop being four separate books and start being one revelation
+- Doctrines that seemed simple become richer because you see them from multiple angles
+- You start to see God's consistency -- the same patterns, the same covenants, the same promises, across thousands of years and multiple civilizations
+- You understand why the LDS canon is structured the way it is -- it's not an accident that we have four witnesses
+- You develop the ability to cross-reference naturally, which is the hallmark of a scriptorian. Someone asks about the Atonement and you can pull from Alma, Isaiah, Paul, and D&C without thinking about it
+
+Assumes Meaning.
 
 **Potential books in Connections:**
 
-Covenant threads:
-- The Abrahamic covenant from Genesis through the Book of Mormon through D&C -- one continuous thread
-- The covenant pattern: God offers, people accept, blessings/cursings follow. How it repeats everywhere
+Doctrinal threads across standard works -- take a doctrine and trace it through all four. Not a gospel-topics treatment organized around "what we believe" but scripture-forward: "here's what each scriptural author actually says, and here's what you see when you put them together":
+- The nature of God -- what Moses, Isaiah, Jesus, Nephi, Joseph Smith, and the D&C each teach, and the unified picture that emerges
+- The Atonement -- how it's taught differently by Isaiah, Paul, Alma, and the D&C, and what each perspective adds
+- The Fall -- Genesis, Moses, 2 Nephi 2, Alma 42. Each one teaches something the others don't
+- Faith and works -- James, Paul, Nephi, Moroni. The supposed contradiction between Paul and James disappears when you add the Book of Mormon's perspective
+- The nature of man -- what the scriptures teach about who we are, across all four standard works
 
-Typology:
-- How OT events prefigure Christ -- the Passover, the brazen serpent, Abraham and Isaac, the Day of Atonement
-- How Book of Mormon prophets explicitly taught typology (Nephi, Abinadi, Alma)
+Covenant threads -- the covenants are the backbone of the entire scriptural narrative, and they only make sense when traced across all four standard works:
+- The Abrahamic covenant from Genesis through the Book of Mormon through D&C -- one continuous thread that is still active and still being fulfilled
+- The covenant pattern: God offers, people accept, blessings and cursings follow. How it repeats in every dispensation
+- The "new and everlasting covenant" -- what it actually is and how it relates to all the individual covenants
 
-Parallel passages:
-- Sermon on the Mount (Matthew 5-7) vs. 3 Nephi 12-14 -- what's the same, what's different, what the differences tell you
-- Isaiah chapters that appear in both the OT and the Book of Mormon
-- Malachi in the OT, in 3 Nephi, and in D&C
+Typology -- events and institutions that foreshadow Christ. This is explicitly taught in the scriptures themselves, not speculation:
+- OT types of Christ -- the Passover, the brazen serpent, Abraham and Isaac, the Day of Atonement, the tabernacle
+- Book of Mormon prophets who explicitly taught typology -- Nephi ("all things are a likeness of things"), Abinadi, Alma
+- How the Law of Moses pointed to Christ (as taught by the Book of Mormon and by Paul)
 
-Doctrinal threads across standard works:
-- What the scriptures teach about the nature of God -- pulling from all four standard works together
-- The doctrine of the Fall across Genesis, Moses, 2 Nephi, Alma
-- The Atonement as taught across all four standard works -- not a gospel-topics treatment but "what does each scriptural author actually say about it?"
+Parallel passages -- places where the same text or event appears in multiple standard works, and what the differences reveal:
+- Sermon on the Mount (Matthew 5-7) vs. 3 Nephi 12-14
+- Isaiah chapters in the OT vs. in the Book of Mormon -- what Nephi chose and why
+- Malachi in the OT, in 3 Nephi 24-25, and in D&C 2
+- The creation accounts across Genesis, Moses, Abraham -- what each one adds
+- The Ten Commandments in Exodus vs. Deuteronomy vs. Mosiah
+
+Patterns across dispensations -- God works the same way across history, and the scriptures show it:
+- The cycle of apostasy and restoration -- not just "it happened" but the specific pattern and what it teaches about God's dealings with man
+- How prophetic calls work -- Moses, Isaiah, Lehi, Joseph Smith. Same pattern, different eras
+- How God establishes His Church -- in the meridian of time and in the latter days. What's the same, what's different
+
+Prophecy fulfillment -- where one standard work prophesies and another records the fulfillment:
+- OT prophecies fulfilled in the NT
+- OT and Book of Mormon prophecies about the latter days fulfilled in D&C and Church history
+- Book of Mormon prophecies about themselves ("this record will come forth")
 
 Temple in scripture:
 - Temple themes, imagery, and language across all four standard works
 
-### Tier 5 — Mastery
+**What Connections is NOT:**
 
-The hardest material and the integration of everything. Isaiah in the Book of Mormon cross-referenced with the OT originals. Revelation. The JST and what it changes. The most complex doctrinal passages. The ability to see the scriptures as a unified whole -- not just knowing the parts, but understanding the whole. Assumes everything below it.
+- It's not a topical study organized by "what does the Church teach about X" -- it follows the scriptural text, not institutional summaries
+- It's not Mastery -- Connections identifies and traces the threads. Mastery takes the hardest intersections and works through them exhaustively
+- It's not speculative -- the connections should be evident from the text. If you have to strain to make a connection, it probably isn't one
 
-**Potential books in Mastery:**
+The dividing line from Meaning: Meaning works within a single text or author. Connections works across texts and authors. You need Meaning first because you can't connect things you don't understand individually.
 
-- Isaiah -- full, deep treatment chapter by chapter. The poetry, the layers, the messianic passages, the historical passages, and why Nephi and Christ both said to study Isaiah
-- Revelation -- working through the actual text with all the OT and D&C cross-references needed to make sense of it
-- The JST -- systematic study of what Joseph Smith changed and what it reveals. Not cherry-picked highlights but a thorough treatment
-- The most complex doctrinal passages -- D&C 76, 84, 88, 93; D&C 121, 130, 131, 132; Jacob 5 (allegory of the olive tree); Alma 12-13 (Melchizedek, foreordination, the mysteries); Alma 40-42 (justice, mercy, resurrection, restoration); 2 Nephi 2 (the Fall and opposition)
-- Ezekiel and Daniel -- prophetic visions that require OT context, NT awareness, and D&C connections to fully appreciate
-- The scriptures as a unified whole -- the capstone. Seeing the entire scriptural canon as one continuous revelation from the pre-earth council through the Millennium
+### Tier 5 — Great Books
+
+The greatest, richest, most rewarding texts in the scriptural canon -- the ones the prophets themselves elevated. Jesus said of Isaiah: "Great are the words of Isaiah" and commanded us to "search these things diligently" (3 Nephi 23:1). Nephi delighted in Isaiah's words. These are not just difficult texts -- they are *great* texts, operating at the highest register of scriptural language. Prophetic and poetic simultaneously, allegorical and historical at the same time, speaking on multiple levels to multiple audiences across multiple eras.
+
+The prior tiers touched these texts but didn't go deep. In Great Books, the learner works through each one with sustained, deep engagement -- bringing all four prior tiers to bear. Each text gets the time and space it deserves: not a lesson, but a full workbook treatment.
+
+The name echoes the classical education tradition of "Great Books" programs, but here it means the greatest texts within the scriptural canon. Assumes Connections.
+
+**Potential books in Great Books:**
+
+- Isaiah -- the full text, chapter by chapter. The poetry, the layers, the messianic passages, the historical passages, the judgments against nations. The most quoted prophet in all four standard works
+- Revelation -- working through the actual text with all the OT imagery and D&C cross-references (D&C 77, 88, 133) needed to make sense of it
+- Ezekiel -- the temple vision, the valley of dry bones, the prophecies against nations
+- Daniel -- the visions, the kingdoms, the prophecies of the latter days
+- The JST -- systematic study of what Joseph Smith changed and what those changes reveal. Not cherry-picked highlights but a thorough treatment
+- Jacob 5 -- the allegory of the olive tree, which requires understanding Israel's scattering and gathering across the entire scriptural timeline
+- The great revelations of the D&C -- D&C 76 (degrees of glory), 84 (oath and covenant of the priesthood), 88 (the "olive leaf"), 93 (intelligence, light, truth)
+- Alma 12-13 -- Melchizedek, foreordination, the mysteries of God
+- Alma 40-42 -- justice, mercy, resurrection, restoration. Alma's most complex doctrinal argument
+- 2 Nephi 2 -- Lehi's teaching on the Fall, opposition, and agency. Arguably the densest doctrinal chapter in the Book of Mormon
+- Romans and Hebrews -- Paul's deepest theological works
+
+### Tier 6 — Fluency
+
+The prior tiers build knowledge. Fluency is where that knowledge becomes *working knowledge* -- the kind you use, not just the kind you have. Like fluency in a language, this means:
+
+- **Width** -- no blind spots. Not strong in the Book of Mormon but blank on the Old Testament, or comfortable with narrative but lost in prophecy
+- **Depth** -- able to go deep on any topic, not just the ones explicitly studied in the curriculum
+- **Working knowledge** -- you use it, not just recall it. A fluent scriptorian doesn't just know where Alma 42 is -- they use it when thinking through a question about justice and mercy
+- **Experience** -- enough sustained time in the scriptures that patterns are familiar, language is recognizable, and instinct develops for what the text is doing
+- **Ease** -- it's not laborious anymore. The scaffolding is internalized and the reading just flows
+- **Communication** -- you can use the scriptures to teach, explain, answer questions, and share understanding. The scriptures become a shared language
+
+Fluency is not a finish line. It is the launch point. The learner who reaches Fluency is equipped to go beyond the curriculum -- to receive personal revelation, to lead, to teach, to study independently -- but grounded in deep scriptural knowledge. They won't be easily led astray because they know what the scriptures say and can recognize when something doesn't fit. The scriptures become the anchor for everything that follows.
+
+Assumes Great Books.
+
+**What Fluency contains:**
+
+The Fluency tier develops and proves the learner's ability to work independently in the scriptures:
+
+- Sustained, deep engagement with the most important texts -- living in them, not visiting
+- Unseen passage work -- given a passage not covered in the curriculum, the learner works through it independently: who's speaking, the historical setting, what it means, how it connects
+- Scriptural question response -- "What do the scriptures teach about X?" The learner constructs an answer from the actual text across multiple standard works
+- Distinguishing scripture from tradition -- identifying whether a common LDS belief is actually in the scriptures, partly in the scriptures, or not at all. This develops precision
+- Working with difficult or ambiguous passages -- passages that seem to contradict, that are culturally jarring, or that raise hard questions. The learner engages honestly without panicking, ignoring, or forcing a resolution
+- Seeing editorial intent -- understanding why Mormon, Nephi, Moroni, and other editors compiled what they compiled. Reading the purpose behind the text
+- The scriptures as one continuous revelation -- seeing the entire canon as one story from the pre-earth council through the Millennium. Not four books, but one God, one plan, told from multiple vantage points across millennia
+
+### Tier 6 — Expound
+
+"And he began at Moses and all the prophets, and expounded unto them in all the scriptures the things concerning himself" (Luke 24:27). Alma expounded the scriptures to the people. Jesus expounded them on the road to Emmaus. To expound means to lay open, to explain clearly, to unfold the meaning for someone else.
+
+This tier is where the scriptorian learns to take deep scriptural knowledge and make it clear to others. Not teaching technique -- but the ability to open up the scriptures for other people. This is what a Gospel Doctrine teacher should be able to do. What a missionary should be able to do. What a parent should be able to do at the dinner table.
+
+Expounding is proactive -- you're teaching, explaining, opening up the scriptures. It is a genuinely different skill from knowing the scriptures. Knowing doesn't automatically mean you can explain well. This tier develops that ability. Assumes Great Books.
+
+### Tier 7 — Answer
+
+"Be ready always to give an answer to every man that asketh you a reason of the hope that is in you" (1 Peter 3:15).
+
+This tier is different from Expounding. Expounding is proactive -- you teach and explain. Answer is responsive -- someone brings a question or a challenge and you can engage with it from the scriptures. Not defensively, not contentiously, but with confidence and grounding.
+
+"What about the contradictions in the Bible?" "Why does the Book of Mormon quote the KJV?" "How do you reconcile Paul and James?" "Why does the Old Testament God seem different from the New Testament God?" The scriptorian who has reached Answer can engage with any of these because they actually know what the scriptures say. They can respond from the text itself rather than from feelings or appeals to authority.
+
+This is not about winning arguments. It is about being able to give a reason for the hope that is in you, and doing it from the scriptures. Assumes Expounding.
 
 ### Notes on tiers
 
 - The progression follows the pattern found in every serious religious education system (Yeshiva, Catholic seminary, MDiv programs) and maps to the classical Trivium (Grammar → Logic → Rhetoric) and Bloom's Taxonomy: absorb the material, then reason about it, then synthesize.
 - The LDS educational system (Seminary/Institute) is a flat rotation with no progression. Scriptorian fills that gap.
-- 5 tiers is a starting point, not a hard limit. More tiers may emerge as the content takes shape -- don't be afraid to add them if the material calls for it.
+- 7 tiers is a starting point, not a hard limit. More tiers may emerge as the content takes shape -- don't be afraid to add them if the material calls for it.
 - Within each tier, learners have freedom to choose which books to study and in what order. The tier structure provides progression; the books within each tier provide choice.
 
 ## Technical Approach

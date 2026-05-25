@@ -256,7 +256,7 @@ Temple in scripture:
 **What Connections is NOT:**
 
 - It's not a topical study organized by "what does the Church teach about X" -- it follows the scriptural text, not institutional summaries
-- It's not Mastery -- Connections identifies and traces the threads. Mastery takes the hardest intersections and works through them exhaustively
+- It's not Great Books -- Connections identifies and traces the threads. Great Books takes the greatest texts and works through them exhaustively
 - It's not speculative -- the connections should be evident from the text. If you have to strain to make a connection, it probably isn't one
 
 The dividing line from Meaning: Meaning works within a single text or author. Connections works across texts and authors. You need Meaning first because you can't connect things you don't understand individually.

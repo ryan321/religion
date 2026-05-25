@@ -283,33 +283,6 @@ The name echoes the classical education tradition of "Great Books" programs, but
 - 2 Nephi 2 -- Lehi's teaching on the Fall, opposition, and agency. Arguably the densest doctrinal chapter in the Book of Mormon
 - Romans and Hebrews -- Paul's deepest theological works
 
-### Tier 6 — Fluency
-
-The prior tiers build knowledge. Fluency is where that knowledge becomes *working knowledge* -- the kind you use, not just the kind you have. Like fluency in a language, this means:
-
-- **Width** -- no blind spots. Not strong in the Book of Mormon but blank on the Old Testament, or comfortable with narrative but lost in prophecy
-- **Depth** -- able to go deep on any topic, not just the ones explicitly studied in the curriculum
-- **Working knowledge** -- you use it, not just recall it. A fluent scriptorian doesn't just know where Alma 42 is -- they use it when thinking through a question about justice and mercy
-- **Experience** -- enough sustained time in the scriptures that patterns are familiar, language is recognizable, and instinct develops for what the text is doing
-- **Ease** -- it's not laborious anymore. The scaffolding is internalized and the reading just flows
-- **Communication** -- you can use the scriptures to teach, explain, answer questions, and share understanding. The scriptures become a shared language
-
-Fluency is not a finish line. It is the launch point. The learner who reaches Fluency is equipped to go beyond the curriculum -- to receive personal revelation, to lead, to teach, to study independently -- but grounded in deep scriptural knowledge. They won't be easily led astray because they know what the scriptures say and can recognize when something doesn't fit. The scriptures become the anchor for everything that follows.
-
-Assumes Great Books.
-
-**What Fluency contains:**
-
-The Fluency tier develops and proves the learner's ability to work independently in the scriptures:
-
-- Sustained, deep engagement with the most important texts -- living in them, not visiting
-- Unseen passage work -- given a passage not covered in the curriculum, the learner works through it independently: who's speaking, the historical setting, what it means, how it connects
-- Scriptural question response -- "What do the scriptures teach about X?" The learner constructs an answer from the actual text across multiple standard works
-- Distinguishing scripture from tradition -- identifying whether a common LDS belief is actually in the scriptures, partly in the scriptures, or not at all. This develops precision
-- Working with difficult or ambiguous passages -- passages that seem to contradict, that are culturally jarring, or that raise hard questions. The learner engages honestly without panicking, ignoring, or forcing a resolution
-- Seeing editorial intent -- understanding why Mormon, Nephi, Moroni, and other editors compiled what they compiled. Reading the purpose behind the text
-- The scriptures as one continuous revelation -- seeing the entire canon as one story from the pre-earth council through the Millennium. Not four books, but one God, one plan, told from multiple vantage points across millennia
-
 ### Tier 6 — Expound
 
 "And he began at Moses and all the prophets, and expounded unto them in all the scriptures the things concerning himself" (Luke 24:27). Alma expounded the scriptures to the people. Jesus expounded them on the road to Emmaus. To expound means to lay open, to explain clearly, to unfold the meaning for someone else.
@@ -317,6 +290,16 @@ The Fluency tier develops and proves the learner's ability to work independently
 This tier is where the scriptorian learns to take deep scriptural knowledge and make it clear to others. Not teaching technique -- but the ability to open up the scriptures for other people. This is what a Gospel Doctrine teacher should be able to do. What a missionary should be able to do. What a parent should be able to do at the dinner table.
 
 Expounding is proactive -- you're teaching, explaining, opening up the scriptures. It is a genuinely different skill from knowing the scriptures. Knowing doesn't automatically mean you can explain well. This tier develops that ability. Assumes Great Books.
+
+**The core skill:** Taking something you understand deeply and making it clear to someone who doesn't have your background. This is harder than it sounds. A lot of people who know the scriptures well are terrible at explaining them -- they skip steps, assume too much, use jargon, or get lost in details that fascinate them but confuse the listener.
+
+**What the learner practices in this tier:**
+
+- **Explaining a passage** -- someone reads a verse and says "what does this mean?" The learner walks through it: the context, what the words mean, what the passage is teaching -- clearly, in order, without overwhelming the person. The most basic form of expounding
+- **Explaining a doctrine from the scriptures** -- not "the Church teaches X" but building the understanding from the text itself. "Let me show you what the scriptures say about the Atonement" -- walking through it across multiple passages in a way that builds understanding step by step
+- **Explaining a narrative** -- being able to tell the story of the Restoration, or the story of Israel, or the arc of the Book of Mormon, in a way that's clear, accurate, and compelling. Not reciting facts but narrating -- helping the listener see the story as a coherent whole
+- **Explaining the difficult parts** -- this is where Expound really matters. Anyone can explain John 3:16. But can you explain Jacob 5 to someone who's never read it? Can you make Isaiah accessible? Can you explain why the war chapters matter? The scriptorian who can expound the difficult parts is doing something genuinely valuable
+- **Knowing your audience** -- expounding to a lifelong member is different from expounding to a new convert is different from expounding to a teenager is different from expounding to an investigator. The content is the same -- the scriptures don't change -- but how you unfold them depends on what the listener already knows and needs
 
 ### Tier 7 — Answer
 

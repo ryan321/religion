@@ -305,11 +305,33 @@ Expounding is proactive -- you're teaching, explaining, opening up the scripture
 
 "Be ready always to give an answer to every man that asketh you a reason of the hope that is in you" (1 Peter 3:15).
 
-This tier is different from Expounding. Expounding is proactive -- you teach and explain. Answer is responsive -- someone brings a question or a challenge and you can engage with it from the scriptures. Not defensively, not contentiously, but with confidence and grounding.
+This tier is different from Expound. Expound is proactive -- you control the flow, you decide where to start and what to cover. Answer is responsive -- someone else sets the agenda. They bring the question and you have to go to the scriptures and construct a response. That requires a different kind of readiness -- you can't prepare for every possible question, so you need the depth to navigate to the right scriptures for whatever comes up.
 
-"What about the contradictions in the Bible?" "Why does the Book of Mormon quote the KJV?" "How do you reconcile Paul and James?" "Why does the Old Testament God seem different from the New Testament God?" The scriptorian who has reached Answer can engage with any of these because they actually know what the scriptures say. They can respond from the text itself rather than from feelings or appeals to authority.
+This is not about winning arguments. It is about being able to give a reason for the hope that is in you, and doing it from the scriptures. Assumes Expound.
 
-This is not about winning arguments. It is about being able to give a reason for the hope that is in you, and doing it from the scriptures. Assumes Expounding.
+**What kinds of questions/challenges this tier prepares the learner for:**
+
+- **Honest questions from fellow members** -- "I've always wondered what 'endless punishment' means in D&C 19." "Why did God harden Pharaoh's heart -- is that fair?" "What does Paul mean by 'baptized for the dead'?" These aren't attacks -- they're genuine questions from people who want to understand. The scriptorian should be able to go to the text and work through it with them
+- **Questions from people learning about the Church** -- "What do Latter-day Saints believe about the Bible?" "Why do you have another book of scripture?" "What makes your beliefs different from other Christians?" These require the ability to explain clearly from the scriptures, not from cultural assumptions or church slogans
+- **Common misunderstandings and misquotations** -- scriptures get taken out of context constantly, both inside and outside the Church. "By grace ye are saved, after all we can do" gets read in ways Nephi didn't intend. "Faith without works is dead" gets used as a hammer. "Judge not" gets quoted as if Jesus said nothing else about judgment. The scriptorian should be able to restore the context and show what the text actually says
+- **Challenges from critics** -- "The Bible contradicts itself." "The Book of Mormon plagiarized the KJV." "Paul and James disagree about faith and works." These are real challenges that real people encounter. The scriptorian doesn't need to be a debater -- but they should be able to engage with the scriptural dimension of these challenges. What does the text actually say? Is the alleged contradiction real or based on a misreading? What does the broader context show?
+- **Difficult historical and doctrinal questions** -- "Why does the Old Testament God seem so harsh?" "Why does the Book of Mormon talk about Jesus by name 500 years before he was born?" "How do you explain the differences between the creation accounts?" These require nuance, honesty, and a willingness to say "here's what the text says, here's what I understand, and here's what I don't have a complete answer for"
+
+**What Answer is NOT:**
+
+- It's not debate training -- the goal is not to "win" against critics
+- It's not apologetics in the combative sense -- it's grounded, honest, scriptural engagement
+- It's not about having every answer -- it's about being able to go to the scriptures and engage thoughtfully with any question
+- It's not about defending cultural practices or institutional decisions -- it's specifically about the scriptures and what they teach
+
+**What the learner gets out of this tier:**
+
+- Confidence to engage with questions rather than avoiding them
+- The ability to distinguish between questions that have clear scriptural answers and questions that require humility and honesty about what we don't fully know
+- The instinct to go to the text rather than to a manual, a website, or a memorized response
+- The ability to help someone who is struggling with a scriptural question -- not by dismissing their concern but by actually engaging with the text together
+
+The key principle: the answer comes from the scriptures, not from the scriptorian. The scriptorian's job is to know the scriptures well enough to find the answer in them, and to present it clearly and honestly.
 
 ### Notes on tiers
 
